@@ -1,2 +1,2 @@
 # TiendaTek
-Tecnologia pimple para Tiendas Inteligentes.
+Tecnologia simple para Tiendas Inteligentes.
